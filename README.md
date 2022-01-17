@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HungNguyen1213
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 
 <!---
